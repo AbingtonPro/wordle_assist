@@ -6,3 +6,7 @@ easier to follow and not so many lines.  Any suggestions or rewrites encouraged.
 The program is all in one file main.py.  The wordlist is an Excel CSV file for easy viewing and updating.  The program keeps track of
 how many times a word is a winner.  I call this frequency or FREQ.
 
+Just create a directory for the program and put main.py and mainlist.csv in the directory.  You can create a .bat, .cmd, or .sh file
+to launch the program in a terminal window.
+
+
